@@ -11,7 +11,7 @@ int main(){
         else 
         {
             utilizou = log2(entrada);
-            printf("%lf\n",utilizou);
+            printf("%.0lf\n",utilizou);
         }
         
     }
