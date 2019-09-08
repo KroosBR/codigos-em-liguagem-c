@@ -10,7 +10,7 @@ int main(){
         }
         else 
         {
-            utilizou = log10(entrada)/log10(2);
+            utilizou = log2(entrada);
             printf("%lf\n",utilizou);
         }
         
